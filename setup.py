@@ -143,13 +143,13 @@ if is_build_command():
 
 
 setup(
-    name="levigram",
+    name="taiigram",
     version=version,
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots (Navy Fork)",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/plerbanget/pyrogram-new",
-    download_url="https://github.com/plerbanget/pyrogram-new/releases/latest",
+    url="https://github.com/jaadisini/taigram",
+    download_url="https://github.com/jaadisini/taigram/releases/latest",
     author="Levine",
     author_email="gwangy682@gmail.com",
     license="LGPLv3",
