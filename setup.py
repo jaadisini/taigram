@@ -143,7 +143,7 @@ if is_build_command():
 
 
 setup(
-    name="taiigram",
+    name="taigram",
     version=version,
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots (Navy Fork)",
     long_description=readme,
