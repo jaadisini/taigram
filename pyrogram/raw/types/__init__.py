@@ -22,6 +22,7 @@
 # All changes made in this file will be lost! #
 # # # # # # # # # # # # # # # # # # # # # # # #
 
+from .input_group_call_slug import InputGroupCallSlug
 from .res_pq import ResPQ
 from .pq_inner_data import PQInnerData
 from .pq_inner_data_dc import PQInnerDataDc
