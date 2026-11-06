@@ -22,6 +22,7 @@
 # All changes made in this file will be lost! #
 # # # # # # # # # # # # # # # # # # # # # # # #
 
+from .update_group_call_chain_blocks import UpdateGroupCallChainBlocks
 from .phone_call_discard_reason_migrate_conference_call import PhoneCallDiscardReasonMigrateConferenceCall
 from .message_action_conference_call import MessageActionConferenceCall
 from .input_group_call_slug import InputGroupCallSlug
