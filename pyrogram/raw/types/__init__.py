@@ -1140,6 +1140,7 @@ from .stars_gift_option import StarsGiftOption
 from .bot_preview_media import BotPreviewMedia
 from .stars_subscription_pricing import StarsSubscriptionPricing
 from .stars_subscription import StarsSubscription
+from .input_group_call_invite_message import InputGroupCallInviteMessage
 from .message_reactor import MessageReactor
 from .stars_giveaway_option import StarsGiveawayOption
 from .stars_giveaway_winners_option import StarsGiveawayWinnersOption
